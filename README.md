@@ -1,3 +1,3 @@
 # Desafio-Dio
-Repositório para os desafios do DIO - Classificador de Nível de Herói
+Repositório para os desafios do DIO 
 BootCamp Lógica de Programação GFT
