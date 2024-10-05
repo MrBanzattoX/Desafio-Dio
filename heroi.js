@@ -1,3 +1,5 @@
+//Código criado por Marcus Vinicius M. Banzatto
+//Em 05 de outubro de 2024
 // Variáveis para armazenar o nome do herói e a quantidade de experiência (XP)
 let nome = "Hércules"; // Exemplo de nome
 let xp = 7200;     // Exemplo de experiência (XP)
