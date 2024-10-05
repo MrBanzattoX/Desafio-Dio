@@ -1,4 +1,5 @@
 //Código por Marcus Vinicius M. Banzatto
+//Em 05 de outubro de 2024
 // Calculadora de partidas Rankeadas
 // Função para calcular o saldo de vitórias e determinar o nível do jogador
 function calcularNivel(vitorias, derrotas) {
